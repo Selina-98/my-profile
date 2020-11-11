@@ -1,0 +1,93 @@
+body{
+	background-color:
+	#B2DEEC }
+
+ h1{
+ 	color:orange;
+ 	font-family: 'Abril Fatface', cursive;
+ 	font-size: 50px;
+ 	
+ 	
+ 	}
+
+ h2
+ {
+ 	
+ 	color:#595B83;
+ 	font-weight: 400;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    letter-spacing:5px;
+ }
+ h3
+ 	
+ 	
+
+ 
+a visited{
+	
+	color:purple;
+   }
+ a:hover{
+ 	color:pink;
+ 	font-size: 25px
+ }
+
+div{
+	background:#f8efd4;
+    border:5px solid white;
+    text-align: center;
+   
+
+  }
+.img-circle{border-bottom-right-radius: 70%}
+.img-circle{border-bottom-left-radius: 70%}
+.img-circle{border-top-right-radius: 60%} 
+.img-circle{border-top-left-radius: 60%} 
+.img-bordered{ border: 10px solid white }
+
+.card-white{
+	width: 500px;
+	margin: 20px auto;
+	text-align:center;
+
+}
+ .container{
+ 	width: 600px;
+ 	margin: 10px auto;
+ 	text-align: center;
+ }
+@media(max-width:700px){
+ 	.container{
+ 		width: 500px;
+ 	}
+ @media(max-width:500px){
+ 	.container{
+ 		width: 300px;
+ 	}
+
+ .section{
+ 	text-align: center;
+    padding:1px;
+    margin-bottom: :2px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.3)
+ }
+ 
+ #title{
+ 	text-align: center;
+ }
+ 
+ .font-bold{
+	font-weight: 400;
+
+
+}
+.footer {
+	text-align: center;
+}
+
+
+
+
+
